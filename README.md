@@ -1,1 +1,1 @@
-# primetrade_ai
+# Primetrade AI
